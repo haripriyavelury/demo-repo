@@ -1,3 +1,3 @@
 # demo-repo
 
-Author: Haripriya Ycd..
+Author: Haripriya Y
